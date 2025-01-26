@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SubconjuntoSoma {
+
+    // Dado um array de inteiros não negativos e um valor inteiro alvo,
+    // o objetivo é escrever um programa em Java que determine o número de subconjuntos do array que somam exatamente o valor alvo.
+
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         int alvo = 9;
